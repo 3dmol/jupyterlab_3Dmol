@@ -1,5 +1,5 @@
 {
-  "name": "jupyterlab_3Dmol",
+  "name": "jupyterlab_3dmol",
   "version": "0.1.0",
   "description": "A JupyterLab extension that enables the use of py3Dmol",
   "keywords": [

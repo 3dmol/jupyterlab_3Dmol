@@ -10,7 +10,7 @@ A JupyterLab extension that enables the use of py3Dmol
 ## Installation
 
 ```bash
-jupyter labextension install jupyterlab_3Dmol
+jupyter labextension install jupyterlab_3dmol
 ```
 
 ## Development
